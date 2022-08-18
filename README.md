@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an RTL Design and Verification Trainee currently upgrading and learning skills to match the semiconductor industry needs 
+- 👋 Hi, I’m an RTL Design and Verification Engineer currently upgrading and learning skills to match the semiconductor industry needs 
       and contribute towards the development of RISC-V processors and IP's.  
 - 👀 I have good hands-on experience in RTL Design, Verification, Universal Verification Methodology(UVM), Synthesis, Code Coverage, Makefile scripting, 
       Functional Coverage using HDL-Verilog, HVL-SystemVerilog and tools like ModelSim, QuartusPrime and QuestaSim.
